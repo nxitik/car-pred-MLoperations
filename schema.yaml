@@ -1,1 +1,13 @@
-key : value
+COLUMNS:
+  ind: int64
+  Make: object
+  Model: object
+  Year: int64
+  Mileage: int64
+  Condition: object
+  Price: int64
+
+
+TARGET_COLUMN:
+  name: Price
+  
