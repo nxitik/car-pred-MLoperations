@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Naitik/OneDrive/Desktop/Masters/MLops/car-pred-MLoperations/mlruns/0/f4198648ea19479baa2b2c7b9afebdd3/artifacts
+end_time: 1708710074614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4198648ea19479baa2b2c7b9afebdd3
+run_name: flawless-fox-789
+run_uuid: f4198648ea19479baa2b2c7b9afebdd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708710068772
+status: 3
+tags: []
+user_id: Naitik

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Naitik/OneDrive/Desktop/Masters/MLops/car-pred-MLoperations/mlruns/0/58f9c78bacee4fe8b71edb142bfaeea4/artifacts
+end_time: 1708709940523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58f9c78bacee4fe8b71edb142bfaeea4
+run_name: rare-yak-744
+run_uuid: 58f9c78bacee4fe8b71edb142bfaeea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708709921260
+status: 3
+tags: []
+user_id: Naitik
