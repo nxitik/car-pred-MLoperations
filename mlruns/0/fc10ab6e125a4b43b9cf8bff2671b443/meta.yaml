@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Naitik/OneDrive/Desktop/Masters/MLops/car-pred-MLoperations/mlruns/0/fc10ab6e125a4b43b9cf8bff2671b443/artifacts
+end_time: 1709570983535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc10ab6e125a4b43b9cf8bff2671b443
+run_name: fearless-mule-453
+run_uuid: fc10ab6e125a4b43b9cf8bff2671b443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709570971140
+status: 3
+tags: []
+user_id: Naitik
